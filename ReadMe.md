@@ -1,7 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on **YouTube**  <br>👯 I’m looking to collaborate on **web development projects**  <br>🤝 I’m looking for help with **backend and Docker-based setups**  <br>🌱 I’m currently learning **JavaScript** and **Python**  <br>💬 Ask me about **Docker, HTML5, CSS3, and Tailwind CSS**  <br>⚡ Fun fact: I break things just to learn how to fix them 😄
+🔭 I’m currently working on **YouTube**  <br>👯 I’m looking to collaborate on **web development projects** <br>🌱 I’m currently learning **Java**  <br>💬 Ask me about **Docker, HTML5, CSS3, and Tailwind CSS** 
 
-**Developer MayBe**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Rnc4Durn37) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/NothingTheKing) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@OrgNothingTheKing) 
