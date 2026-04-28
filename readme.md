@@ -1,5 +1,5 @@
 # 💫 About Me:
-## I am an Student Backend Developer Problem Solving Mind <br>🌱  I’m currently working on ControlStack<br>🔭  I’m currently learning Java
+I am an Student Backend Developer Problem Solving Mind <br>🌱  I’m currently working on ControlStack<br>🔭  I’m currently learning Java
 
 
 ## 🌐 Socials:
